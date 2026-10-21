@@ -1,6 +1,7 @@
 {
   "title": "Login",
   "usernameLabel": "Username",
+  "passwordHelp": "Please enter your password.",
   "passwordLabel": "Password",
   "submitLabel": "Login"
 }
